@@ -1,0 +1,13 @@
+Annotators guide:
+
+Please rate the following examples base on
+a. the smilarity between the reference and the prediction
+b. the relevance of the answer to the clickbait title given
+
+That is according to the following scale:
+
+5 - the prediction and the reference are an exact match
+4 - the answer is similar, yet different in length, style etc.  
+3 - the answer contains parts of the correct answer yet is not enough on its own
+2 - the answer is WRONG, yet understandably so (different name of a country for example)
+1 - the answer is irrelevent, not in Hebrew etc. 

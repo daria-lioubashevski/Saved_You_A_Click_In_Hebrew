@@ -1,0 +1,14 @@
+facebook-page-scraper
+numpy~=1.25.2
+pandas~=2.0.3
+tqdm~=4.65.0
+nltk~=3.8.1
+evaluate~=0.4.0
+rouge~=1.0.1
+torch~=2.0.1
+transformers~=4.31.0
+beautifulsoup4~=4.12.2
+news_scrapers @ git+https://github.com/imvladikon/news_scrapers.git
+requests~=2.31.0
+selenium~=4.1.0
+datasets~=2.14.3
