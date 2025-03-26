@@ -4,7 +4,11 @@ A real-world dataset for training and evaluating question answering models in He
 Built by combining Israeli news sources with TL;DR-style posts from Facebook.
 👉 [View on Hugging Face 🤗](https://huggingface.co/datasets/daria-lioub/heb_amlk_for_QA)
 
-[Read the full project description (PDF)](Saved You a Click - A New QA Dataset in Hebrew.pdf)
+The repository contains:
+1. Code for recreating and expanding the dataset from news sources and TL;DR-style posts.
+2. Code for fine-tuning and evaluating language models on the QA task.
+   
+[📝Read the full project description (PDF)](project_description.pdf)
 
 
 # List of Contents
