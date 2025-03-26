@@ -3,6 +3,7 @@
 A real-world dataset for training and evaluating question answering models in Hebrews.
 Built by combining Israeli news sources with TL;DR-style posts from Facebook.
 👉 [View on Hugging Face 🤗](https://huggingface.co/datasets/daria-lioub/heb_amlk_for_QA)
+[Read the full project description (PDF)](Saved You a Click - A New QA Dataset in Hebrew.pdf)
 
 
 # List of Contents
