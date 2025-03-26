@@ -1,4 +1,4 @@
-# Saved You a Click In Hebrew
+# Saved You a Click in Hebrew
 
 A real-world dataset for training and evaluating question answering models in Hebrew.
 Built by combining Israeli news sources with TL;DR-style posts from Facebook.
