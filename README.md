@@ -1,11 +1,11 @@
-# Saved You A Click In Hebrew
+# Saved You a Click In Hebrew
 
 A real-world dataset for training and evaluating question answering models in Hebrews.
 Built by combining Israeli news sources with TL;DR-style posts from Facebook.
 👉 [View on Hugging Face 🤗](https://huggingface.co/datasets/daria-lioub/heb_amlk_for_QA)
 
 
-# List Of Contents
+# List of Contents
 
 _Data gathering_:
 * clickbait_scraper.py - wrapper for facebook_scraper which handles the logic of scraping the posts' text, links and clickbait titles
